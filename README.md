@@ -28,6 +28,12 @@ I've divided my practice into several sections to cover different aspects of tes
 
 ---
 ## 📂 Repository Structure
+Organization is key to effective QA. This project follows a structured approach to document and store testing artifacts:
+
+* **[`/bug-reports`](./bug-reports/)** - Detailed documentation of identified defects, including reproduction steps, environment details, and expected vs. actual results.
+* **[`/test-documentation`](./test-documentation/)** - High-level testing assets, such as the [QA Checklist](./test-documentation/checklist.md) and audit summaries.
+* **[`/assets`](./assets/)** - Visual evidence, console logs, and screenshots supporting the bug reports.
+* **[`LICENSE`](./LICENSE)** - Legal framework for the project (MIT License).
 
 ---
 ## 🛠 Tools Used
@@ -37,6 +43,12 @@ I've divided my practice into several sections to cover different aspects of tes
 - **Markdown:** A simple way to format text. I use it to make my bug reports and project descriptions look organized on GitHub.
 
 ---
+## ⚖️ License
+This project is open-source and available under the **[MIT License](./LICENSE)**. 
 
+> **Copyright (c) 2026 Dmytro Isai.**
+> You are free to use, copy, and modify this project for educational purposes, provided that the original author is credited.
+
+---
 ## 👨‍💻 Author
 **Dmytro Isai**
